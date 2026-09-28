@@ -3,7 +3,7 @@
 DevBlog is a modern, frontend-focused blogging application built using **React.js** and **Tailwind CSS**.
 It demonstrates real-world React concepts such as routing, global state management, form handling, and CRUD operations using browser storage.
 
-🌐 **Live Demo:** 
+🌐 **Live Demo:**  NOT /
 👨‍💻 **Developer:** Kunal Kumar  
 📚 **Project Type:** Personal / Academic React Project
 

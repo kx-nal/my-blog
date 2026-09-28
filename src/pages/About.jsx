@@ -43,10 +43,10 @@ const About = () => {
       <div className="border-t border-gray-200 dark:border-gray-800 pt-12 text-center">
         <h2 className="text-2xl font-bold mb-8">Let's Connect</h2>
         <div className="flex justify-center gap-8">
-          <a href="https://github.com/kunal-kumar-dev" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-blue-600 hover:text-white transition">
+          <a href="https://github.com/kx-nal" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-blue-600 hover:text-white transition">
             <Github size={24} />
           </a>
-          <a href="https://www.linkedin.com/in/kunal-kumar-rajak/" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-blue-700 hover:text-white transition">
+          <a href="https://www.linkedin.com/in/kx-nal/" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-blue-700 hover:text-white transition">
             <Linkedin size={24} />
           </a>
           <a href="mailto:thetechkunal@gmail.com" className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-red-500 hover:text-white transition">

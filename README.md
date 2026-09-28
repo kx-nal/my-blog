@@ -68,7 +68,7 @@ To build a personal blog platform that allows users to:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/kunal-kumar-dev/my-blog.git
+git clone https://github.com/kx-nal/my-blog.git
 cd my-blog
 ```
 
@@ -91,7 +91,7 @@ http://localhost:5173
 
 This project is deployed on **Netlify**.
 
-🔗 Live URL: https://my-blog-new.netlify.app/
+🔗 Live URL: https:
 
 To deploy yourself:
 1. Connect GitHub repo to Netlify
